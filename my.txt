@@ -1,0 +1,6 @@
+#laptop
+#Sun Jul 14 15:33:04 IST 2024
+Brand=Dell
+Model=i3
+Os=Windows
+Processor=Snapdragon
